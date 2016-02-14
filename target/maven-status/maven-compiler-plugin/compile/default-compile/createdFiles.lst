@@ -1,0 +1,5 @@
+com\example\guestbook\OfyHelper.class
+com\example\guestbook\Guestbook.class
+com\example\guestbook\SignGuestbookServlet.class
+com\example\guestbook\Greeting.class
+com\example\guestbook\GuestbookServlet.class
